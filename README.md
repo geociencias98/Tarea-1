@@ -8,7 +8,7 @@
 
 ## Área de Conservación Guanacaste
 
-### El [Área de Conservación Guanacaste](https://www.acguanacaste.ac.cr/index.php) es la entidad encargada de coordinar la administración de difirentes areas de conservación ubicadas en la parte norte de la provincia. El Área de Conservación Guanacaste cuenta con varias áreas protegidas que son clave para la conservación de su biodiversidad. Entre ellas destacan el **Parque Nacional Santa Rosa**, uno de los más antiguos del país, que protege un fragmento significativo del bosque seco tropical, y el **Parque Nacional Rincón de la Vieja**, famoso por su actividad volcánica y sus exuberantes bosques húmedos en las alturas. Otro parque importante es el **Parque Nacional Marino Las Baulas**, que protege las playas de anidación de la tortuga baula, una especie en peligro de extinción.
+### El [Área de Conservación Guanacaste](https://www.acguanacaste.ac.cr/index.php) es la entidad encargada de coordinar la administración de diferentes areas de conservación ubicadas en la parte norte de la provincia. El Área de Conservación Guanacaste cuenta con varias áreas protegidas que son clave para la conservación de su biodiversidad. Entre ellas destacan el **Parque Nacional Santa Rosa**, uno de los más antiguos del país, que protege un fragmento significativo del bosque seco tropical, y el **Parque Nacional Rincón de la Vieja**, famoso por su actividad volcánica y sus exuberantes bosques húmedos en las alturas. Otro parque importante es el **Parque Nacional Marino Las Baulas**, que protege las playas de anidación de la tortuga baula, una especie en peligro de extinción.
 
 ## Mapa del Área de Conservación Guanacaste
 
